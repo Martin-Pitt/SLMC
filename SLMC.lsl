@@ -36,7 +36,9 @@ default
             "6fdd5815-7a8c-b3ce-1a78-a3a437955efc", "The Megiddo - Ultimate",
             "4660039a-3c80-7982-5f01-e36b56636c69", "The Megiddo- Civilians",
             "f77172ef-4382-365a-2f3f-13463271527d", "[New Rome - Legio Imperatus]",
-            "e22ec527-b3d1-3abe-106c-2b9d467fb920", "[New Rome - Civis Imperatus]"
+            "e22ec527-b3d1-3abe-106c-2b9d467fb920", "[New Rome - Civis Imperatus]",
+            "90049dfa-d417-a2b1-f0f8-4fd752519cd9", "Cultus Voluptatis",
+            "51c8b12a-bfc1-e3d0-14de-5ec57acac322", "*Wonderlands*"
         ]);
         llList2Json(JSON_ARRAY, [
             /*
@@ -126,6 +128,12 @@ default
                 "l", "f77172ef-4382-365a-2f3f-13463271527d",
                 "n", "New Rome",
                 "s", "New Rome"
+            ]),
+            llList2Json(JSON_OBJECT, [
+                "g", "90049dfa-d417-a2b1-f0f8-4fd752519cd9",
+                "l", "51c8b12a-bfc1-e3d0-14de-5ec57acac322",
+                "n", "Cultus Voluptatis",
+                "s", "Cultus Voluptatis"
             ])
         ]);
         
@@ -227,8 +235,14 @@ default
             llList2Json(JSON_OBJECT, [
                 "n", "Huntingdon",
                 "t", REGION_TYPE_BASE,
-                "g", "", // 
-                "l", "" // 
+                "g", "f77172ef-4382-365a-2f3f-13463271527d", // "[New Rome - Legio Imperatus]",
+                "l", "f77172ef-4382-365a-2f3f-13463271527d" // "[New Rome - Legio Imperatus]",
+            ]),
+            llList2Json(JSON_OBJECT, [
+                "n", "Azalea Cove",
+                "t", REGION_TYPE_BASE,
+                "g", "90049dfa-d417-a2b1-f0f8-4fd752519cd9", // Cultus Voluptatis
+                "l", "90049dfa-d417-a2b1-f0f8-4fd752519cd9" // Cultus Voluptatis
             ])
         ]);
     }
