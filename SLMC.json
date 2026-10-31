@@ -1,0 +1,222 @@
+{
+  "groups": {
+    "3aed126e-f13d-1675-2ef1-34bf9fcbbd96": "Chaos Indivisvm",
+    "1c01a66d-09eb-4df9-322b-256bc1cf4822": "Chaos Indivisvm - Militia",
+    "5db7e14b-538e-9929-9e12-8140cfdb622a": "Chaos Indivism - Land Barons",
+    "0b081b3b-8960-f1f6-cc9f-5b4837f284d1": "- The Grand Federation -",
+    "feba2be6-f860-7fbb-6180-548acfe93fc2": "- Grand Federation Allied Units -",
+    "2f7aa268-fd59-807d-0881-acc0b8d0c0b7": "- Grand Federation Land Mngmt. -",
+    "87824e8b-4734-4ba1-8cf9-b2cf8e1499d5": "Vos Imperium",
+    "73d53d13-6801-48ee-1142-692ded9af6d3": "The Union.",
+    "3d3b2276-a9a2-530a-36be-905516fefe81": "Silver Hawk- Prime [New]",
+    "bf7d2293-ed35-9dc9-141b-d73ed562c548": "SH Land Management Group-New",
+    "5e117e25-6b2b-78c5-68d8-ada551021b7c": "Badlands Land Management",
+    "5d7c52c7-bfda-d83b-5267-7ce3489b1655": "[Faust-Infernium]",
+    "f7144ecd-9e03-b7f0-c4ac-9605af80061c": "[Faust Land Group]",
+    "4b7f2184-8143-ced1-d382-62da21736dfb": "[Faust-Infernium] Mercenary Core",
+    "0ca421d9-5df9-c69b-8fb2-225e90371462": "Exyrian Ascendant",
+    "64064c89-25aa-008b-cfe7-0c34e28ae523": "Ashguard",
+    "86376bab-a5c9-d551-1866-7f6ac222c96f": "Ashguard - Hireling Militia",
+    "a15cd794-e272-a2af-cfd3-faa66b68dc1e": "Ashguard - Civilians",
+    "127ed99a-37c2-c620-4908-85da85180ea9": "Ashguard - Land",
+    "05f39447-f320-79c3-d289-32d0ac37841d": "Alliance Navy",
+    "0a22668d-9443-125c-8d42-2a681fd6eabe": "[C.D.F.] Land Management",
+    "9a9701e6-d3f0-4a37-2fee-ad7af7ae6a9a": "Colonial Defence Foundation",
+    "c868c519-227f-898d-6d15-edfcf07c6616": "Combat Town - Land Management",
+    "68988c4e-7d5b-72d3-3885-3d029f5df7ea": "Entropy Land Group",
+    "d1cc4dba-b4ab-2db7-93a1-8f380e7d68d7": "Kkamagwi Paramilitary Corporation",
+    "ad324ce5-f1a7-bfac-4f7f-0585a1865bb0": "- // Territory Control Uplink",
+    "39e33507-ac17-f0bd-f51d-d38f5ec4d89b": "- // Umbra Obscura",
+    "5ac60f7d-1284-2fe9-a53c-5c22bc80d16a": "- // Echelon | Tactical Forces",
+    "910ac4ea-316e-9edc-1e7a-97f98b75de1c": "- // Auxiliary",
+    "6fdd5815-7a8c-b3ce-1a78-a3a437955efc": "The Megiddo - Ultimate",
+    "4660039a-3c80-7982-5f01-e36b56636c69": "The Megiddo- Civilians",
+    "f77172ef-4382-365a-2f3f-13463271527d": "[New Rome - Legio Imperatus]",
+    "e22ec527-b3d1-3abe-106c-2b9d467fb920": "[New Rome - Civis Imperatus]",
+    "90049dfa-d417-a2b1-f0f8-4fd752519cd9": "Cultus Voluptatis",
+    "51c8b12a-bfc1-e3d0-14de-5ec57acac322": "*Wonderlands*",
+    "ddad8ad1-5479-6960-93d9-0a11870b5eb6": "- // N I G H T S L A Y E R"
+  },
+  "factions": [
+    {
+      "id": "3aed126e-f13d-1675-2ef1-34bf9fcbbd96",
+      "militia": "1c01a66d-09eb-4df9-322b-256bc1cf4822",
+      "land": "5db7e14b-538e-9929-9e12-8140cfdb622a",
+      "name": "Chaos Indivisvm",
+      "short": "Chaos"
+    },
+    {
+      "id": "0b081b3b-8960-f1f6-cc9f-5b4837f284d1",
+      "militia": "feba2be6-f860-7fbb-6180-548acfe93fc2",
+      "land": "2f7aa268-fd59-807d-0881-acc0b8d0c0b7",
+      "name": "- The Grand Federation -",
+      "short": "GF"
+    },
+    {
+      "id": "87824e8b-4734-4ba1-8cf9-b2cf8e1499d5",
+      "name": "Vos Imperium",
+      "short": "Vos"
+    },
+    {
+      "id": "3d3b2276-a9a2-530a-36be-905516fefe81",
+      "name": "Silver Hawk- Prime [New]",
+      "short": "SH"
+    },
+    {
+      "id": "5d7c52c7-bfda-d83b-5267-7ce3489b1655",
+      "militia": "4b7f2184-8143-ced1-d382-62da21736dfb",
+      "land": "f7144ecd-9e03-b7f0-c4ac-9605af80061c",
+      "name": "[Faust-Infernium]",
+      "short": "Faust"
+    },
+    {
+      "id": "0ca421d9-5df9-c69b-8fb2-225e90371462",
+      "name": "Exyrian Ascendant",
+      "short": "Exyrian"
+    },
+    {
+      "id": "64064c89-25aa-008b-cfe7-0c34e28ae523",
+      "militia": "86376bab-a5c9-d551-1866-7f6ac222c96f",
+      "civilian": "a15cd794-e272-a2af-cfd3-faa66b68dc1e",
+      "land": "127ed99a-37c2-c620-4908-85da85180ea9",
+      "name": "Ashguard",
+      "short": "Ash"
+    },
+    {
+      "id": "05f39447-f320-79c3-d289-32d0ac37841d",
+      "name": "Alliance Navy",
+      "short": "AN"
+    },
+    {
+      "id": "5ac60f7d-1284-2fe9-a53c-5c22bc80d16a",
+      "militia": "910ac4ea-316e-9edc-1e7a-97f98b75de1c",
+      "land": "ad324ce5-f1a7-bfac-4f7f-0585a1865bb0",
+      "name": "- // Echelon | Tactical Forces",
+      "short": "Echelon"
+    },
+    {
+      "id": "9a9701e6-d3f0-4a37-2fee-ad7af7ae6a9a",
+      "name": "Colonial Defence Foundation",
+      "short": "CDF"
+    },
+    {
+      "id": "d1cc4dba-b4ab-2db7-93a1-8f380e7d68d7",
+      "name": "Kkamagwi Paramilitary Corporation",
+      "short": "KPC"
+    },
+    {
+      "id": "6fdd5815-7a8c-b3ce-1a78-a3a437955efc",
+      "name": "The Megiddo - Ultimate",
+      "short": "Megiddo"
+    },
+    {
+      "id": "f77172ef-4382-365a-2f3f-13463271527d",
+      "militia": "e22ec527-b3d1-3abe-106c-2b9d467fb920",
+      "land": "f77172ef-4382-365a-2f3f-13463271527d",
+      "name": "New Rome",
+      "short": "New Rome"
+    },
+    {
+      "id": "90049dfa-d417-a2b1-f0f8-4fd752519cd9",
+      "land": "51c8b12a-bfc1-e3d0-14de-5ec57acac322",
+      "name": "Cultus Voluptatis",
+      "short": "Cultus Voluptatis"
+    },
+    {
+      "id": "ddad8ad1-5479-6960-93d9-0a11870b5eb6",
+      "name": "- // N I G H T S L A Y E R",
+      "short": "Nightslayer"
+    }
+  ],
+  "regions": [
+    {
+      "name": "Concord",
+      "type": "neutral",
+      "group": "Blue Team",
+      "land": "Linden Lab"
+    },
+    {
+      "name": "Lexington",
+      "type": "neutral",
+      "group": "Red Team",
+      "land": "Linden Lab"
+    },
+    {
+      "name": "Milopolis",
+      "type": "base",
+      "group": "3aed126e-f13d-1675-2ef1-34bf9fcbbd96"
+    },
+    {
+      "name": "Hellfire",
+      "type": "base",
+      "group": "0b081b3b-8960-f1f6-cc9f-5b4837f284d1",
+      "land": "2f7aa268-fd59-807d-0881-acc0b8d0c0b7"
+    },
+    {
+      "name": "Apogee",
+      "type": "base",
+      "group": "3d3b2276-a9a2-530a-36be-905516fefe81",
+      "land": "bf7d2293-ed35-9dc9-141b-d73ed562c548"
+    },
+    {
+      "name": "Bad Space",
+      "type": "continent",
+      "land": "5e117e25-6b2b-78c5-68d8-ada551021b7c"
+    },
+    {
+      "name": "Good Space",
+      "type": "continent",
+      "group": "05f39447-f320-79c3-d289-32d0ac37841d"
+    },
+    {
+      "name": "Outer Space",
+      "type": "continent",
+      "group": "ddad8ad1-5479-6960-93d9-0a11870b5eb6",
+      "land": "ad324ce5-f1a7-bfac-4f7f-0585a1865bb0"
+    },
+    {
+      "name": "Resdayn",
+      "type": "base",
+      "group": "64064c89-25aa-008b-cfe7-0c34e28ae523",
+      "land": "127ed99a-37c2-c620-4908-85da85180ea9"
+    },
+    {
+      "name": "Entropy",
+      "type": "neutral",
+      "land": "68988c4e-7d5b-72d3-3885-3d029f5df7ea"
+    },
+    {
+      "name": "Killwater",
+      "type": "base",
+      "group": "d1cc4dba-b4ab-2db7-93a1-8f380e7d68d7"
+    },
+    {
+      "name": "Pereo",
+      "type": "base",
+      "group": "0ca421d9-5df9-c69b-8fb2-225e90371462"
+    },
+    {
+      "name": "Mortiaum",
+      "type": "base",
+      "group": "5d7c52c7-bfda-d83b-5267-7ce3489b1655"
+    },
+    {
+      "name": "Port Babel",
+      "type": "base",
+      "group": "9a9701e6-d3f0-4a37-2fee-ad7af7ae6a9a",
+      "land": "0a22668d-9443-125c-8d42-2a681fd6eabe"
+    },
+    {
+      "name": "Huntingdon",
+      "type": "base",
+      "group": "f77172ef-4382-365a-2f3f-13463271527d",
+      "land": "f77172ef-4382-365a-2f3f-13463271527d"
+    },
+    {
+      "name": "Azalea Cove",
+      "type": "base",
+      "group": "90049dfa-d417-a2b1-f0f8-4fd752519cd9",
+      "land": "51c8b12a-bfc1-e3d0-14de-5ec57acac322"
+    }
+  ]
+}
