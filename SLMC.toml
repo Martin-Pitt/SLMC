@@ -27,6 +27,7 @@
 "a15cd794-e272-a2af-cfd3-faa66b68dc1e" = "Ashguard - Civilians"
 "127ed99a-37c2-c620-4908-85da85180ea9" = "Ashguard - Land"
 "05f39447-f320-79c3-d289-32d0ac37841d" = "Alliance Navy"
+"509683ac-b658-e217-56bc-22ccba9317a3" = "Alliance Navy Reserve"
 "0a22668d-9443-125c-8d42-2a681fd6eabe" = "[C.D.F.] Land Management"
 "9a9701e6-d3f0-4a37-2fee-ad7af7ae6a9a" = "Colonial Defence Foundation"
 "c868c519-227f-898d-6d15-edfcf07c6616" = "Combat Town - Land Management"
@@ -93,6 +94,7 @@ short = "Ash"
 
 [[factions]]
 id = "05f39447-f320-79c3-d289-32d0ac37841d"
+militia = "509683ac-b658-e217-56bc-22ccba9317a3"
 name = "Alliance Navy"
 short = "AN"
 
